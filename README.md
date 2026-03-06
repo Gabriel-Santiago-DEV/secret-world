@@ -1,6 +1,6 @@
-# Secret World 🎮
+# Secret Word 🎮
 
-Secret World é um jogo simples de adivinhar palavras desenvolvido em **React**.  
+Secret Word é um jogo simples de adivinhar palavras desenvolvido em **React**.  
 O jogador deve descobrir uma palavra secreta digitando letras. Letras corretas revelam suas posições na palavra, enquanto letras incorretas diminuem o número de tentativas disponíveis.
 
 O jogo possui **tela inicial**, **tela de jogo** e **tela de fim de jogo**, além de um sistema de **pontuação**.
@@ -26,7 +26,7 @@ O jogo possui **tela inicial**, **tela de jogo** e **tela de fim de jogo**, alé
 
 # 📖 Introdução
 
-Secret World é um jogo de navegador inspirado em jogos clássicos de **adivinhar palavras**, parecido com o jogo da forca.
+Secret Word é um jogo de navegador inspirado em jogos clássicos de **adivinhar palavras**, parecido com o jogo da forca.
 
 O jogador recebe uma **dica de categoria** e precisa adivinhar qual é a palavra secreta, digitando **uma letra por vez**.
 
@@ -58,13 +58,13 @@ O jogo também possui:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/secret-world.git
+git clone https://github.com/seuusuario/secret-word.git
 ```
 
 2. Entre na pasta do projeto:
 
 ```bash
-cd secret-world
+cd secret-word
 ```
 
 3. Instale as dependências:
