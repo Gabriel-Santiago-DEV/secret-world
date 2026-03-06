@@ -53,6 +53,10 @@ O jogo também possui:
 
 ---
 
+# 💻 Como jogar:
+
+Abra em seu navegador o projeto usando o link: https://secret-world-drab.vercel.app/
+
 # ⚙️ Instalação
 
 1. Clone o repositório:
